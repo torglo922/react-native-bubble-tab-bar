@@ -573,16 +573,9 @@
   version "0.7.3"
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.3.tgz#6310a047f12d21a1036fb031317219892440416f"
 
-"@expo/vector-icons@expo/vector-icons":
+"@expo/vector-icons@expo/vector-icons", "@expo/vector-icons@~9.0.0":
   version "9.0.0"
   resolved "https://codeload.github.com/expo/vector-icons/tar.gz/f60615e81649fbf94dbdbbd9adb0bd10418ecd76"
-  dependencies:
-    lodash "^4.17.4"
-    react-native-vector-icons "6.0.0"
-
-"@expo/vector-icons@~9.0.0":
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/@expo/vector-icons/-/vector-icons-9.0.0.tgz#7f18e21d3edc8b99b76d7d1b8e26b212393e08b3"
   dependencies:
     lodash "^4.17.4"
     react-native-vector-icons "6.0.0"
@@ -3110,8 +3103,8 @@ inherits@2, inherits@2.0.3, inherits@^2.0.3, inherits@~2.0.3:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
 
 ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.7.tgz#a09363e1911972ea16d7a8851005d84cf09a9a84"
 
 inquirer@^3.0.6:
   version "3.3.0"
