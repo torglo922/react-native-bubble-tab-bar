@@ -573,16 +573,9 @@
   version "0.7.3"
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.3.tgz#6310a047f12d21a1036fb031317219892440416f"
 
-"@expo/vector-icons@expo/vector-icons":
+"@expo/vector-icons@expo/vector-icons", "@expo/vector-icons@~9.0.0":
   version "9.0.0"
   resolved "https://codeload.github.com/expo/vector-icons/tar.gz/f60615e81649fbf94dbdbbd9adb0bd10418ecd76"
-  dependencies:
-    lodash "^4.17.4"
-    react-native-vector-icons "6.0.0"
-
-"@expo/vector-icons@~9.0.0":
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/@expo/vector-icons/-/vector-icons-9.0.0.tgz#7f18e21d3edc8b99b76d7d1b8e26b212393e08b3"
   dependencies:
     lodash "^4.17.4"
     react-native-vector-icons "6.0.0"
@@ -5679,8 +5672,8 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
 
 to-fast-properties@^1.0.3:
   version "1.0.3"
